@@ -30,7 +30,7 @@
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jidongwon&show_icons=true&theme=radical" alt="Jidongwon's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jidongwon&theme=radical" alt="Jidongwon's streak stats" />
+  <img src="https://streak-stats.demolab.com?user=Jidongwon&theme=radical" alt="Jidongwon's streak stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jidongwon&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
@@ -46,7 +46,7 @@
 
 ### 📫 Connect with Me
 <div align="center">
-  <a href="https://linkedin.com/in/your_link"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/デウン-ユン-45a481246"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:tyi02038@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://your_portfolio_link"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </div>
