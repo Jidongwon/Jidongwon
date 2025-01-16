@@ -30,7 +30,6 @@
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jidongwon&show_icons=true&theme=radical" alt="Jidongwon's GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=Jidongwon&theme=radical" alt="Jidongwon's streak stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jidongwon&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
