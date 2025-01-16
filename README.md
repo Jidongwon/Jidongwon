@@ -1,7 +1,8 @@
-# 👋 Hi, I'm Jidongwon!
-
-Welcome to my GitHub profile! I'm passionate about coding, solving problems, and learning new technologies. Here's a glimpse into my journey:
-
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100">
+  <h1>Hi, I'm Jidongwon! 👋</h1>
+  <p>Welcome to my GitHub profile! I’m a developer passionate about crafting clean code and creating innovative solutions.</p>
+</div>
 ---
 
 ### 🛠️ Tech Stack
